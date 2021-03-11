@@ -15,18 +15,18 @@
         android:src="@drawable/ic_logo_leaf"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="2dp"
-        tools:layout_editor_absoluteY="-45dp" />
+        tools:layout_editor_absoluteY="-76dp" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="258dp"
         android:layout_height="77dp"
         android:text="GreenCity"
-        android:textSize="110px"
         android:textColor="@color/black"
+        android:textSize="110px"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="99dp"
-        tools:layout_editor_absoluteY="514dp" />
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="461dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -9,6 +9,9 @@
         android:roundIcon="@drawable/ic_logo_wtht_leaf"
         android:supportsRtl="true"
         android:theme="@style/Theme.GreenCity">
+        <activity
+            android:name=".info_recyclage"
+            android:label="@string/title_activity_info_recyclage"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
